@@ -2,7 +2,12 @@ public class Practice1 {
 
     // step 1
 
-    // step 2 is done
+    // step 2
 
-    // step 3 is done
+    // step 3
+
+    // step 4
+
 }
+
+
